@@ -1,0 +1,8 @@
+.cart{
+    top:0;
+    background-color: #FFE0B3;
+    height: 100vh;
+    /* width: 280px; */
+    position:sticky;
+    padding: 10px;
+}
