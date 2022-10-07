@@ -1,7 +1,11 @@
 .header{
     background-color: #1C2B35;
     align-items: center;
-
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    display: block;
 }
 .header img{
     width: 140px;

@@ -1,0 +1,7 @@
+.review-container img{
+    width: 98px;
+    height: 124px;
+}
+.review-container {
+    border: 1px solid #ddd;
+}
